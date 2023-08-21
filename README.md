@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/rajib-alt/Weather-App-Project
 Navigate to the project folder:
 
 bash
